@@ -1,6 +1,6 @@
 # Alurakut
 
-This is a project build built in the immersion of alura react to make a orkut, the social network that was successful in the 2000s
+This is a project built in the immersion of alura react to make a orkut, the social network that was successful in the 2000s
 
 ## How to use
 
